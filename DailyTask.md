@@ -1,6 +1,6 @@
-___
 
-                Morning Scrum Notes:
+
+   
 <font size="+2">
 <div align="center">Morning Scrum Notes:</div>
 </font>
@@ -11,19 +11,19 @@ ___
 ___
 
 - AWS
-    - [x] 
+    - [X] 
 
 - Linux
-    - [ ]
+    - [ ] 
 
 - Networking
-    - [ ]
+    - [ ] 
 
 - CyberSecurity
     - [ ] Explore modules
 
 - Python
-    - [ ]
+    - [ ] 
 
 
 ### **Daily Objectives:**
