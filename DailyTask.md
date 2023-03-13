@@ -11,19 +11,19 @@
 ___
 
 - AWS
-    - [X] 
+    - [X] VPC
 
 - Linux
-    - [ ] 
+    - [ ] CLI
 
 - Networking
-    - [ ] 
+    - [ ] Subnet
 
 - CyberSecurity
     - [ ] Explore modules
 
 - Python
-    - [ ] 
+    - [ ] Loops
 
 
 ### **Daily Objectives:**
